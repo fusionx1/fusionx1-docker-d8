@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Ricardo Amaro <mail_at_ricardoamaro.com>
+MAINTAINER Paul de Paula
 ENV DEBIAN_FRONTEND noninteractive
 
 #RUN echo "deb http://archive.ubuntu.com/ubuntu saucy main restricted universe multiverse" > /etc/apt/sources.list
